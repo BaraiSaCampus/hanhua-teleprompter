@@ -1,4 +1,4 @@
-# 提词器新版
+# 汉化提词器
 
 一个 Windows 10/11 x64 便携式全局提词工具。导入 TXT、DOCX 或 DOC 后，启用状态下在其他程序中按 `Ctrl+V` 输出下一行，按 `Ctrl+C` 回退一行。
 
@@ -24,4 +24,3 @@ dotnet publish .\src\Teleprompter\Teleprompter.csproj -c Release -r win-x64 --se
 
 - DocSharp.Binary.Doc 与 DocSharp.Docx：MIT License，用于离线解析 Word DOC/DOCX。
 - .NET Runtime：随 self-contained 构建一并发布，遵循其对应许可。
-
