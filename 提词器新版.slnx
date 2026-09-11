@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/Teleprompter/Teleprompter.csproj" />
+  <Project Path="tests/Teleprompter.Tests/Teleprompter.Tests.csproj" />
+</Solution>
+

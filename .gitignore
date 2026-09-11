@@ -1,0 +1,11 @@
+.dotnet/
+.vs/
+bin/
+obj/
+publish/
+release/
+data/
+TestResults/
+*.user
+*.suo
+/*.exe
